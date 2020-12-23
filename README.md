@@ -10,7 +10,8 @@ El objeto es una ovoide para todos los planetas ya que solamente se necesita una
 
 **Lector de archivos obj.**
 Restringue los archivos obj a tener los vertices, normales a los vertices y caras trianguladas.
-Para cada cara se requiere tener el formato vertice/vacio/textura
+Para cada cara se requiere tener el formato vertice/vacio/textura.
+
 Para poder transformar cualquier archivo obj en uno funcional para el programa se recomienda usar blender y seguir las siguientes instrucciones. 
 	
         * Importar el archivo obj al proyecto de blender (si es que ya se cuenta con un objeto obj).
