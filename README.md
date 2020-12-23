@@ -33,6 +33,7 @@ Cualquier archivo obj que se quiera agregar al proyecto se recomienda ubicarlo e
 **Clases.**
 
 Los objetos a representar son triangulos en un plano tridimensional por lo que se necesita simular todo aquello que conforma un objeto en tres dimensiones.
+
 	* Vertices
 	* Aristas
 	* Caras.
